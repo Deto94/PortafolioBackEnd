@@ -1,3 +1,4 @@
+C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Repository\Rhys.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Repository\iRolRepository.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Dto\NuevoUsuario.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\MainSecurity.java
@@ -16,10 +17,15 @@ C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Securit
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Entity\Persona.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Dto\dtoExperiencia.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Controller\Mensaje.java
+C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Dto\dtoPersona.java
+C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Entity\hys.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Repository\iPersonaRepository.java
+C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Dto\dtoHys.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Controller\AuthController.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Service\UserDetailsImpl.java
+C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Service\Shys.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Controller\CExperiencia.java
+C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Controller\CHys.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Repository\iUsuarioRepository.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Entity\Rol.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Service\SExperiencia.java
@@ -29,6 +35,5 @@ C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Securit
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Service\SEducacion.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Service\RolService.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Entity\UsuarioPrincipal.java
-C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Interface\iPersonaService.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\DetoApplication.java
 C:\Users\Deto\Desktop\Portfolio\BackEnd\src\main\java\com\portfolio\Deto\Security\Enums\RolNombre.java
