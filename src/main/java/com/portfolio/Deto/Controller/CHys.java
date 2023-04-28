@@ -65,7 +65,7 @@ public class CHys {
         if (shys.existsByNombre(dtohys.getNombre())) {
             return new ResponseEntity(new Mensaje("Esa skill ya existe"), HttpStatus.BAD_REQUEST);
         }
-
+        
         hys hYs = new hys(dtohys.getNombre(), dtohys.getPorcentaje());
         shys.save(hYs);
 
